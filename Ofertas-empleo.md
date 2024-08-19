@@ -29,7 +29,7 @@ Actualmente seleccionamos un Android Developer Senior para incorporarse de forma
 - [Java]
 - [kotlin and titanium knowledge (WebViews communication with titanium)]
 
-  ## [Ofeta 3: Desarrollador android studio](https://www.elempleo.com/co/ofertas-trabajo/desarrollador-android-studio-1886263245?highlight=developer%2CAndroid%2Cdesarrollador)
+  ## [Ofeta 3: Desarrollador android studio INTER RAPIDISIMO ](https://www.elempleo.com/co/ofertas-trabajo/desarrollador-android-studio-1886263245?highlight=developer%2CAndroid%2Cdesarrollador)
 
 ### Descripción: 
 En BETWEEN apostamos por el mejor talento dentro del sector tecnológico. Nos involucramos en una gran variedad de proyectos punteros, trabajando con las últimas tecnologías. Actualmente en BETWEEN contamos con un equipo de más de 800 personas.
