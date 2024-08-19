@@ -29,7 +29,7 @@ Actualmente seleccionamos un Android Developer Senior para incorporarse de forma
 - [Java]
 - [kotlin and titanium knowledge (WebViews communication with titanium)]
 
-  ## [Ofeta 3: Desarrollador android studio INTER RAPIDISIMO ](https://www.elempleo.com/co/ofertas-trabajo/desarrollador-android-studio-1886263245?highlight=developer%2CAndroid%2Cdesarrollador)
+## [Ofeta 3: Desarrollador android studio INTER RAPIDISIMO ](https://www.elempleo.com/co/ofertas-trabajo/desarrollador-android-studio-1886263245?highlight=developer%2CAndroid%2Cdesarrollador)
 
 ### Descripción: 
 En Inter Rapidísimo estamos buscando un perfil como el tuyo
