@@ -1,14 +1,12 @@
-# Ideas de proyecto
+# Ofertas de empleo 
 
-Se proponen las siguientes ideas de aplicación para el proyecto:
+## Ofeta 1: Desarrollador/a IOS/ANDROID JR (Infortec)(Barcelona)
 
-## Idea 1: UANCasts (seleccionada)
+### Descripción: 
+En Infortec Consultores ¡Continuamos ampliando nuestro equipo!.
+Actualmente contamos con un interesante proyecto para el que precisamos incorporar Desarrolladores/as Mobile Junior con los siguientes requisitos técnicos.
 
-UANCasts es una aplicación que permite consultar y escuchar Podcasts de distintas fuentes a través
-de una interfaz de usuario amigable. La aplicación traerá la información de Listen Notes, que es una
-fuente pública de datos de Podcasts en Internet.
-
-### Aplicaciones similares
+####  Requisitos
 
 - [Apple Podcasts](https://apps.apple.com/es/app/apple-podcasts/id525463029)
 - [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=es_CO&gl=US)
