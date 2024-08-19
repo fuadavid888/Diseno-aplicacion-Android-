@@ -8,10 +8,12 @@ Actualmente contamos con un interesante proyecto para el que precisamos incorpor
 
 ####  Requisitos
 
-- [Apple Podcasts](https://apps.apple.com/es/app/apple-podcasts/id525463029)
-- [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=es_CO&gl=US)
-- [Podcasts Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=es_CO&gl=US)
-- [Stitcher](https://play.google.com/store/apps/details?id=com.stitcher.app&hl=es_CO&gl=US)
+- [Al menos 1 año de experiencia en desarrollo de apps móviles]
+- [Dominio de iOS, Android, y frameworks móviles]
+- [Conocimientos en diseño, desarrollo e implementación de aplicaciones]
+- [Experiencia en proyectos Agile/Scrum]
+- [Buenas habilidades comunicativas e inquietud por evolucionar profesionalmente]
+- [Valorable inglés]
 
 ## Idea 2: Lorem ipsum dolor sit amet
 
