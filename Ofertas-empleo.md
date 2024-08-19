@@ -1,10 +1,10 @@
 # Ofertas de empleo 
 
-## Ofeta 1: Desarrollador/a IOS/ANDROID JR (Infortec)(Barcelona)
+## [Ofeta 1: Desarrollador/a IOS/ANDROID JR (Infortec)(Barcelona)](https://www.infojobs.net/barcelona/desarrollador-ios-android-jr-barcelona/of-ib5aa88369c44f387f2d921956aa800?applicationOrigin=search-new&page=1&sortBy=RELEVANCE)
 
 ### Descripción: 
 En Infortec Consultores ¡Continuamos ampliando nuestro equipo!.
-Actualmente contamos con un interesante proyecto para el que precisamos incorporar Desarrolladores/as Mobile Junior con los siguientes requisitos técnicos.
+Actualmente contamos con un interesante proyecto para el que precisamos incorporar Desarrolladores/as Mobile Junior con los siguientes requisitos técnicos. con salario de 27.000€ - 36.000€ Bruto/año
 
 ####  Requisitos
 
