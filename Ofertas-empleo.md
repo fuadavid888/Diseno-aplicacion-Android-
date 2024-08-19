@@ -32,13 +32,13 @@ Actualmente seleccionamos un Android Developer Senior para incorporarse de forma
   ## [Ofeta 3: Desarrollador android studio INTER RAPIDISIMO ](https://www.elempleo.com/co/ofertas-trabajo/desarrollador-android-studio-1886263245?highlight=developer%2CAndroid%2Cdesarrollador)
 
 ### Descripción: 
-En BETWEEN apostamos por el mejor talento dentro del sector tecnológico. Nos involucramos en una gran variedad de proyectos punteros, trabajando con las últimas tecnologías. Actualmente en BETWEEN contamos con un equipo de más de 800 personas.
-Trabajamos en ámbitos como BI, IoT, Big Data e I+D. En el área de Operaciones implantamos proyectos de Service Desk, Infraestructuras IT y proyectos Cloud, entre otros.
-Actualmente seleccionamos un Android Developer Senior para incorporarse de forma indefinida en uno de los equipos que Between tiene implantados en uno de nuestros principales clientes. con salario de 27.000€ - 36.000€ Bruto/año
+En Inter Rapidísimo estamos buscando un perfil como el tuyo
+Requerimos Desarrollador Android Studio con salario de $5,5 a $6 millones de pesos COL
 
 ####  Requisitos
 
-- [Al menos 4 año de experiencia]
-- [Android]
-- [Java]
-- [kotlin and titanium knowledge (WebViews communication with titanium)]
+- [Ingeniero de sistemas, Ingenierìa De Software, Ingeniería de telecomunicaciones]
+- [developer]
+- [desarrollador]
+- [kotlin]
+- [Dev]
