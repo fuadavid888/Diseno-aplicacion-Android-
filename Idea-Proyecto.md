@@ -20,6 +20,6 @@ VetLink Connect es una aplicación integral diseñada para facilitar la salud y 
 ### Aplicaciones similares
 
 - [Registro Veterinario](https://play.google.com/store/apps/details?id=com.vetclinic&hl=es_CO&pli=1)
-- [Pet Care Mascota - Dog Cat App]([https://www.mercadolibre.com.co/](https://play.google.com/store/apps/details?id=dogcat.app.android&hl=es_CO))
+- [Pet Care Mascota - Dog Cat App]([https://play.google.com/store/apps/details?id=dogcat.app.android&hl=es_CO])
 - [VetmemoDdx](https://play.google.com/store/apps/details?id=com.thomasbarreto.vetmemoddx&hl=es_CO)
 
