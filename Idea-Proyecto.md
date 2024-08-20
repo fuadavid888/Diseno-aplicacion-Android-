@@ -13,20 +13,11 @@ Parcelmate es una innovadora plataforma global de comercio en línea que transfo
 - [Mercado libre](https://www.mercadolibre.com.co/)
 
 
-## Idea 2: Lorem ipsum dolor sit amet
+## Idea 2: VetLink
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit laoreet platea integer, cras vestibulum
-sociis nunc nisl hac tempor sem porttitor magnis inceptos, nibh placerat varius blandit sed egestas
-montes fames diam. Dis non eu fames netus potenti sapien malesuada, eleifend himenaeos morbi ut
-mauris ad, senectus consequat tellus leo donec suspendisse. Ornare convallis facilisis nisi feugiat
-mus vel eros enim senectus, augue nibh nullam elementum conubia imperdiet magnis rutrum, eleifend
-cubilia torquent felis ultricies ut urna tortor. Convallis etiam taciti aenean fringilla orci
-eleifend ad donec, accumsan neque pharetra non venenatis platea risus, sociis ultricies nisi
-vulputate suspendisse a nec.
+VetLink Connect es una aplicación integral diseñada para facilitar la salud y el bienestar de tus mascotas. Con VetLink Connect, puedes gestionar fácilmente las citas médicas con veterinarios, contactar a profesionales de confianza en tu área, y recibir indicaciones sobre posibles problemas de salud que pueda presentar tu animal.
 
 ### Aplicaciones similares
 
-- [App 1](#)
-- [App 2](#)
-- [App 3](#)
+- [Registro Veterinario](https://play.google.com/store/apps/details?id=com.vetclinic&hl=es_CO&pli=1)
 
