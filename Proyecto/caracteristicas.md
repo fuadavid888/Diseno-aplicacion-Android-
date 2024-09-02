@@ -11,33 +11,22 @@
 
 ## Funcionalidades de usuario
 
-UANCasts le permitirá al usuario consultar e interactuar con Podcasts de distintos tópicos a través
-de una interfaz amigable. El usuario podrá:
+VetLink permitirá al usuario gestionar la salud de sus mascotas y conectarse con veterinarios a través de una interfaz intuitiva. El usuario podrá:
 
-1. Ver una lista de los podcasts disponibles: Al ingresar a la aplicación verá una lista de los
-   podcasts disponibles en Listen Notes.
+1.Ver el historial médico de su mascota: Al ingresar a la aplicación, podrá ver un registro completo del historial médico de cada una de sus mascotas, incluyendo vacunas, tratamientos y revisiones.
 
-2. Seleccionar un podcast ver los episodios disponibles para ese podcast: Desde la pantalla inicial
-   podrá seleccionar cualquier podcast y ver la lista de episodios disponibles. El primer episodio
-   se reproducirá de forma automática.
+2.Agregar o actualizar información médica: Desde el perfil de cada mascota, podrá añadir nuevos registros médicos, como vacunas recientes o tratamientos administrados.
 
-3. Ir al sitio web del Podcast (si existe): Si el Podcast tiene un sitio web podrá abrirlo en el
-   navegador por defecto en su celular.
+3.Recibir notificaciones sobre eventos importantes: VetLink enviará recordatorios automáticos para citas veterinarias, próximas vacunas, o tratamientos pendientes, que el usuario podrá ver y gestionar.
 
-4. Reproducir episodios de podcast: Desde la lista de episodios podrá reproducir cualquiera de
-   ellos.
+4.Buscar veterinarios cercanos: Al acceder a la función de búsqueda, el usuario podrá encontrar veterinarios en su área y ver detalles sobre su trayectoria y especialidades.
 
-5. Adelantar la reproducción de un podcast: Podrá adelantar la reproducción en intervalos de 15
-   segundos.
+5.Contactar a un veterinario: Desde la lista de veterinarios disponibles, el usuario podrá seleccionar uno y encontrar la informacion para contactarlo y solicitar una cita o hacer consultas.
 
-6. Retrasar la reproducción de un podcast: Podrá regresar la reproducción en intervalos de 15
-   segundos.
+6.Consultar la enciclopedia de enfermedades: Podrá acceder a una enciclopedia que permite buscar enfermedades comunes en animales domésticos, ingresando los síntomas que presenta la mascota.
 
-7. Buscar podcasts por nombre: Al ir a la ventana de búsqueda podrá navegar buscando el nombre de su
-   podcast de interés.
+7.Ver el perfil de una mascota: El usuario podrá crear y gestionar perfiles individuales para cada una de sus mascotas, incluyendo fotos, datos de identificación y características específicas.
 
-8. Votar por los podcasts favoritos: En cada Podcast tendrá una opción para votar por el podcast. La
-   votación será personal y estará disponible solo desde el dispositivo.
+8.Buscar información sobre enfermedades por síntomas: A través de la enciclopedia, el usuario podrá ingresar síntomas específicos y obtener posibles diagnósticos y recomendaciones básicas.
 
-9. Ver los podcasts favoritos: Podrá ir a la ventana de favoritos donde verá los Podcasts que ha
-   votado como favoritos en orden de calificación.
+9.Verificar la calificación y comentarios de veterinarios: En la búsqueda de veterinarios, el usuario podrá ver las calificaciones y leer comentarios de otros usuarios sobre los servicios recibidos.
