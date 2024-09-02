@@ -13,7 +13,7 @@ presentan las principales pantallas:
    Cuando el usuario ingrese a la aplicaicón verá una lista con los podcasts disponibles tomados
    desde el API.
 
-   ![Lista de podcasts](images/PodcastList.png)
+   ![Lista de podcasts](file:///C:/Users/FUAD/Downloads/1.png)
 
 2. Episodios de un Podcast
 
