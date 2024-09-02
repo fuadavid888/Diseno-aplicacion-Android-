@@ -4,7 +4,7 @@ La interfaz de usuario de la aplicación Vetlink esta inspirada en la interfaz d
 aplicaicones similares y en el uso de [Material Design](https://material.io/design).
 
 El diseño completoe esta disponible
-en [Figma](https://marvelapp.com/prototype/32daa10g/screen/95463924)
+en [este link](https://marvelapp.com/prototype/32daa10g/screen/95463924)
 . Los colores a usar estar[an basados en una combinación de escalas de gris. A continuación se
 presentan las principales pantallas:
 
