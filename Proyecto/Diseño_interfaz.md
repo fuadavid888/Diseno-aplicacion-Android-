@@ -14,10 +14,9 @@ presentan las principales pantallas:
 
    ![alt text](4.png)
 
-2. Episodios de un Podcast
+2. Informacion y seguimiento
 
-   Al seleccionar un Podcats, el usuario verá la lista de episodios de ese podcasts y podrá
-   reproducirlos.
+   Al seleccionar a una mascota registrada entrara a una interfaz que permitira mostrar la informacion medica de la mascota.
 
    ![alt text](5.png)
 
