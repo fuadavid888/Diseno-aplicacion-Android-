@@ -20,12 +20,14 @@ presentan las principales pantallas:
 
    ![alt text](5.png)
 
-3. Búsqueda podcasts
+3. Calendario
 
-   Adicionalmente el usuario podrá buscar los Podcasts de su interes usando palabras clave.
+   La aplicacion contara con un calendario para anotar citas o procedimientos de las mascotas.
 
    ![alt text](6.png)
 
+4.
    ![alt text](7.png)
 
+5.
    ![alt text](10.png)
