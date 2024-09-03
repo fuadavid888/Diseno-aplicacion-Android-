@@ -8,10 +8,9 @@ en [Figma](https://www.figma.com/proto/hfzawvdC9umcC1e2z56fxR/PodcastsApp?node-i
 . Los colores a usar estar[an basados en una combinación de escalas de gris. A continuación se
 presentan las principales pantallas:
 
-1. Lista de Podcasts
+1. Lista de Mascotas
 
-   Cuando el usuario ingrese a la aplicaicón verá una lista con los podcasts disponibles tomados
-   desde el API.
+   Los usuarios de la aplicacion tendran un apartado para registrar a sus mascotas
 
    ![alt text](4.png)
 
