@@ -1,33 +1,38 @@
 # Diseño de interfaz de usuario
 
-La interfaz de usuario de la aplicación UANCasts esta inspirada en la interfaz de usuari de
-aplicaicones similares y en el uso de [Material Design](https://material.io/design).
+La interfaz de usuario de la aplicación Vetlink esta inspirada en la interfaz de usuari de
+aplicaicones similares.
 
 El diseño completoe esta disponible
-en [Figma](https://www.figma.com/proto/hfzawvdC9umcC1e2z56fxR/PodcastsApp?node-id=1%3A2&scaling=scale-down)
-. Los colores a usar estar[an basados en una combinación de escalas de gris. A continuación se
-presentan las principales pantallas:
+[aqui](https://marvelapp.com/prototype/32daa10g/screen/95463924)
+A continuación se presentan las principales pantallas:
 
 1. Lista de Mascotas
 
-   Los usuarios de la aplicacion tendran un apartado para registrar a sus mascotas
+   Los usuarios de la aplicación tendrán un apartado para registrar a sus mascotas
 
    ![alt text](4.png)
 
-2. Informacion y seguimiento
+2. Información y seguimiento
 
-   Al seleccionar a una mascota registrada entrara a una interfaz que permitira mostrar la informacion medica de la mascota.
+   Al seleccionar a una mascota registrada entrará a una interfaz que permitirá mostrar la información medica de la mascota.
 
    ![alt text](5.png)
 
 3. Calendario
 
-   La aplicacion contara con un calendario para anotar citas o procedimientos de las mascotas.
+   La aplicación contara con un calendario para anotar citas o procedimientos de las mascotas.
 
    ![alt text](6.png)
 
-4.
+4. Búsqueda de veterinarios
+
+   La aplicación contara con un apartado que permita buscar y consultar veterinarios 
+
    ![alt text](7.png)
 
-5.
+5. Información de enfermedades
+
+   La aplicación contara con un apartado para ingresar los síntomas que presente una mascota y indagar cual podría ser el padecimiento 
    ![alt text](10.png)
+
