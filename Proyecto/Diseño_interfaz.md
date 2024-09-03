@@ -1,10 +1,10 @@
 # Diseño de interfaz de usuario
 
-La interfaz de usuario de la aplicación Vetlink esta inspirada en la interfaz de usuari de
+La interfaz de usuario de la aplicación UANCasts esta inspirada en la interfaz de usuari de
 aplicaicones similares y en el uso de [Material Design](https://material.io/design).
 
 El diseño completoe esta disponible
-[aqui](https://marvelapp.com/prototype/32daa10g/screen/95463924)
+en [Figma](https://www.figma.com/proto/hfzawvdC9umcC1e2z56fxR/PodcastsApp?node-id=1%3A2&scaling=scale-down)
 . Los colores a usar estar[an basados en una combinación de escalas de gris. A continuación se
 presentan las principales pantallas:
 
@@ -13,17 +13,21 @@ presentan las principales pantallas:
    Cuando el usuario ingrese a la aplicaicón verá una lista con los podcasts disponibles tomados
    desde el API.
 
-   ![Lista de podcasts](C:/Users/FUAD/Downloads/1.png)
+   ![alt text](4.png)
 
 2. Episodios de un Podcast
 
    Al seleccionar un Podcats, el usuario verá la lista de episodios de ese podcasts y podrá
    reproducirlos.
 
-   ![Lista de episodios](images/EpisodesPlaying.png)
+   ![alt text](5.png)
 
 3. Búsqueda podcasts
 
    Adicionalmente el usuario podrá buscar los Podcasts de su interes usando palabras clave.
 
-   ![Búsqueda](images/Search.png)
+   ![alt text](6.png)
+
+   ![alt text](7.png)
+
+   ![alt text](10.png)
