@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/huellita"
+        android:title="Mascota"/>
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/calendario"
+        android:title="Calendario"/>
+
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/veterinario"
+        android:title="Veterinario"/>
+
+    <item
+        android:id="@+id/fourFragment"
+        android:icon="@drawable/libro"
+        android:title="Informacion" />
+
+
+</menu>

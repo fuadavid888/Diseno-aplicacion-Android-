@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_gravity="top"
+        android:background="@color/Azul"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="15dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center_vertical"
+        android:text="Agendar Citas"
+        android:textColor="@color/black"
+        android:textSize="30dp" />
+
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="559dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginEnd="25dp"
+        android:background="@color/Azul_calendario" />
+
+    <EditText
+        android:id="@+id/editTextMessage"
+        android:layout_width="273dp"
+        android:layout_height="101dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="210dp"
+        android:background="@color/white"
+        android:hint="Escribe tu mensaje aquí"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="290dp"
+        android:text="Guardar"/>
+
+
+</FrameLayout>
